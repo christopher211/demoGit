@@ -1,1 +1,2 @@
 C:\Users\CHRISTOPHER\Desktop\TestGithub\demoGit\EnglishCenterManagement\bin\Debug\EnglishCenterManagement.exe.config
+C:\Users\Lunar\Desktop\english\EnglishCenterManagement\bin\Debug\EnglishCenterManagement.exe.config
